@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity">
+    <oauth_entity action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <access_token_lifespan>1800</access_token_lifespan>
+        <active>true</active>
+        <auth_code_lifespan>0</auth_code_lifespan>
+        <auth_url>http://identity.ivminc.com/connect/authorize</auth_url>
+        <certificate_url/>
+        <client_id>roclient</client_id>
+        <client_secret>5tXKvYluiVR2JZvpr5i2Tg==</client_secret>
+        <client_uuid>fd116a39db00230037c1e04a4896192b</client_uuid>
+        <comments/>
+        <default_grant_type>password</default_grant_type>
+        <id_token_lifespan>0</id_token_lifespan>
+        <logo_url/>
+        <message_signature_lifespan>0</message_signature_lifespan>
+        <name>IVM endpoint 2</name>
+        <oauth_api_script/>
+        <protocol_name/>
+        <redirect_url>https://dev60305.service-now.com/oauth_redirect.do</redirect_url>
+        <refresh_token_lifespan>8640000</refresh_token_lifespan>
+        <revoke_token_url>http://identity.ivminc.com/connect/revocation</revoke_token_url>
+        <salt>0</salt>
+        <sys_class_name>oauth_entity</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-21 16:55:41</sys_created_on>
+        <sys_id>71116a39db00230037c1e04a4896192c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IVM endpoint 2</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>oauth_entity_71116a39db00230037c1e04a4896192c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-21 16:55:41</sys_updated_on>
+        <token_url>http://identity.ivminc.com/connect/token</token_url>
+        <type>oauth_provider</type>
+        <use_mutual_auth>false</use_mutual_auth>
+        <user/>
+    </oauth_entity>
+</record_update>

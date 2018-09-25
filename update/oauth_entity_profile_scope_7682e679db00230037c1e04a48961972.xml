@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity_profile_scope">
+    <oauth_entity_profile_scope action="INSERT_OR_UPDATE">
+        <oauth_entity_profile display_value="IVM endpoint 2 default_profile">3e82e679db00230037c1e04a48961970</oauth_entity_profile>
+        <oauth_entity_scope display_value="ivm_profile">ce116a39db00230037c1e04a4896192f</oauth_entity_scope>
+        <sys_class_name>oauth_entity_profile_scope</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-21 16:55:41</sys_created_on>
+        <sys_id>7682e679db00230037c1e04a48961972</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>3e82e679db00230037c1e04a48961970</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>oauth_entity_profile_scope_7682e679db00230037c1e04a48961972</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-21 16:55:41</sys_updated_on>
+    </oauth_entity_profile_scope>
+</record_update>
